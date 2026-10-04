@@ -1,2 +1,2 @@
-<p align = "center">ArticleX</p>
+<p align = "center"><strong>ArticleX</strong></p>
 ----
