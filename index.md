@@ -1,8 +1,3 @@
-----
-layout: home,
-title: ""
-----
-
 <h1 align = "center"><strong>ArticleX</strong></h1>
 ----
 
