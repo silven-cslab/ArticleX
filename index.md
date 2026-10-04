@@ -1,5 +1,3 @@
-<h1 align = "center"><strong>ArticleX</strong></h1>
-
 ### Welcome to my page
 This page contains my publications (or collaborative publications) like **articles, case studies, and others.**
 ----
