@@ -1,3 +1,5 @@
+![](./imgs/article1.png)
+
 <h1 align="center"><em>Beyond LLMs: Structured Decision-Making Models, Jev, and Laya</em></h1>
 
 ----
@@ -161,27 +163,27 @@ Jev and Laya demonstrate this shift toward efficient, uncertainty-aware AI.
 
 ## References:
 
-1. https://theory.stanford.edu/~tim/talks/bwca_statrec_public.pdf
+1. [Structured Prediction](https://theory.stanford.edu/~tim/talks/bwca_statrec_public.pdf)
 
-2. https://scikit-learn.org/stable/modules/calibration.html
+2. [Probability Calibration](https://scikit-learn.org/stable/modules/calibration.html)
 
-3. https://arxiv.org/abs/2107.05719
+3. [Decision Calibration](https://arxiv.org/abs/2107.05719)
 
-4. https://nalar.dev/let-classifiers-abstain-with-selective-prediction
+4. [Selective Prediction](https://nalar.dev/let-classifiers-abstain-with-selective-prediction)
 
-5. https://arxiv.org/pdf/1711.02281
+5. [Non-autoagressive Models](https://arxiv.org/pdf/1711.02281)
 
-6. https://typesafe.ai
+6. [TypeSafe AI](https://typesafe.ai)
 
-7. https://docs.typesafe.ai/introduction
+7. [TypeSafe AI Docs](https://docs.typesafe.ai/introduction)
 
-8. https://typesafe.ai/blog/introducing-system-one-models-and-jev
+8. [TypeSafe AI System One Models](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 
-9. https://huggingface.co/convaiinnovations/laya
+9. [Laya Hugging Face](https://huggingface.co/convaiinnovations/laya)
 
-10. https://github.com/NandhaKishorM/laya
+10. [Laya GitHub](https://github.com/NandhaKishorM/laya)
 
-11. https://laya.convaiinnovations.com
+11. [Laya](https://laya.convaiinnovations.com)
 
 
 ----
